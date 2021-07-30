@@ -13,5 +13,7 @@ At this stage, main branch has 3 commits (Initial Commit, Updated readme.md, Set
 * Not deleting the branch as you would verify this. (ideally we should delete the branch once it is merged - this can be done manually or thorugh github settings)
 
 ### Branch 2 - Demonstarte 'Squash and Merge'
-* Added commit 1 for branch2 
+* Added commit 1 for branch2
+* Added commit 2 for branch2  
+* Now, squash and merge the 2 commits into single one by creating a pull request
 
