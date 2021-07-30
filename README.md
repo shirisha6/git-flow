@@ -19,3 +19,9 @@ At this stage, main branch has 3 commits (Initial Commit, Updated readme.md, Set
 
 ### Parallel 1 - Modified along with Parallel 2 branch
 
+### Parallel 2 - Modified along with Parallel 1 branch
+* Pull requested created and this is closed due to merge conflicts -  https://github.com/shirisha6/git-flow/pull/5
+* Merge conflict occurs when same file got modified in 2 branches
+
+
+
