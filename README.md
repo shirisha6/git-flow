@@ -8,3 +8,6 @@ At this stage, main branch has 3 commits (Initial Commit, Updated readme.md, Set
 
 ### Branch 1
 * Here, we add another commit namely, branch1-commit1
+* Adding one more commit
+* Merge this commit to main by creating a pull request
+* Not deleting the branch as you would verify this. (ideally we should delete the branch once it is merged - this can be done manually or thorugh github settings)
